@@ -1,0 +1,23 @@
+{
+    "firstTestCase":
+{
+"url":"http://automationpractice.multiformis.com/index.php?controller=contact",
+"":""
+
+},
+
+"SecondTestCase":{
+    "Message":"Contact Me",
+    "noSubjectErrorMessage":"Please select a subject from the list provided.",
+    "noMessageErrorMessage":"The message cannot be blank.",
+    "successMessage":"Your message has been successfully sent to our team."
+
+}
+
+
+
+
+
+
+
+}
